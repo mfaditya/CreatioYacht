@@ -3,8 +3,8 @@
     "UId": "1783eea5-9e01-b2f7-7b71-ca6930a51485",
     "Name": "EnableRootTriggerMSSQL",
     "DBEngineType": 0,
-    "InstallType": 1,
-    "ModifiedOnUtc": "\/Date(1758609831000)\/",
+    "InstallType": 2,
+    "ModifiedOnUtc": "\/Date(1758614962000)\/",
     "BackwardCompatibilityConfirmed": false,
     "DependsOn": []
   }
